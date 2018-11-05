@@ -1,0 +1,18 @@
+<a class=gb1 href="https://www.google.com.ua/imghp?hl=uk&tab=wi">&#1047;&#1086;&#1073;&#1088;&#1072;&#1078;&#1077;&#1085;&#1085;&#1103;</a>
+<a class=gb1 href="https://maps.google.com.ua/maps?hl=uk&tab=wl">&#1050;&#1072;&#1088;&#1090;&#1080;</a>
+<a class=gb1 href="https://www.youtube.com/?gl=UA&tab=w1">YouTube</a>
+<a class=gb1 href="https://news.google.com.ua/nwshp?hl=uk&tab=wn">&#1053;&#1086;&#1074;&#1080;&#1085;&#1080;</a>
+<a class=gb1 href="https://mail.google.com/mail/?tab=wm">Gmail</a>
+<a class=gb1 href="https://drive.google.com/?tab=wo">&#1044;&#1080;&#1089;&#1082;</a>
+<a class=gb1 href="https://www.google.com/calendar?tab=wc">&#1050;&#1072;&#1083;&#1077;&#1085;&#1076;&#1072;&#1088;</a>
+<a class=gb1 style="text-decoration:none" href="https://www.google.com.ua/intl/uk/options/"><u>&#1041;&#1110;&#1083;&#1100;&#1096;&#1077;</u> &raquo;</a>
+<a href="http://www.google.com.ua/history/optout?hl=uk" class=gb4>&#1030;&#1089;&#1090;&#1086;&#1088;&#1110;&#1103; &#1074;&#1077;&#1073;-&#1087;&#1086;&#1096;&#1091;&#1082;&#1091;</a>
+<a  href="/preferences?hl=uk" class=gb4>&#1053;&#1072;&#1083;&#1072;&#1096;&#1090;&#1091;&#1074;&#1072;&#1085;&#1085;&#1103;</a>
+<a target=_top id=gb_70 href="https://accounts.google.com/ServiceLogin?hl=uk&passive=true&continue=https://www.google.com/" class=gb4>&#1059;&#1074;&#1110;&#1081;&#1090;&#1080;</a>
+<a href="/advanced_search?hl=uk&amp;authuser=0">&#1056;&#1086;&#1079;&#1096;&#1080;&#1088;&#1077;&#1085;&#1080;&#1081; &#1087;&#1086;&#1096;&#1091;&#1082;</a>
+<a href="/language_tools?hl=uk&amp;authuser=0">&#1052;&#1086;&#1074;&#1085;&#1110; &#1110;&#1085;&#1089;&#1090;&#1088;&#1091;&#1084;&#1077;&#1085;&#1090;&#1080;</a>
+<a href="https://www.google.com/setprefs?sig=0_ivyHptw8j4LplgiXVEUON-Rmzlo%3D&amp;hl=ru&amp;source=homepage&amp;sa=X&amp;ved=0ahUKEwj4iPSj3rveAhXROSwKHXMZBjgQ2ZgBCAU">&#1088;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</a>
+<a href="http://www.google.com.ua/intl/uk/ads/">&#1056;&#1077;&#1082;&#1083;&#1072;&#1084;&#1072;</a>
+<a href="http://www.google.com.ua/intl/uk/services/">&#1056;&#1110;&#1096;&#1077;&#1085;&#1085;&#1103; &#1076;&#1083;&#1103; &#1073;&#1110;&#1079;&#1085;&#1077;&#1089;&#1091;</a>
+<a href="/intl/uk/about.html">&#1059;&#1089;&#1077; &#1087;&#1088;&#1086; Google</a>
+<a href="https://www.google.com/setprefdomain?prefdom=UA&amp;prev=https://www.google.com.ua/&amp;sig=K_l3JkT0UC6NPv2bPKFUZb9ds6jFk%3D">Google.com.ua</a>
